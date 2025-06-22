@@ -67,7 +67,7 @@ ${train_tool} \
 ++train_conf.deepspeed_config=${deepspeed_config} \
 ++optim_conf.lr=0.0002 \
 ++train_conf.use_wandb=true \
-++train_conf.wandb_token="43f0a93861dc8dd416f7cb552b7982be18ab569a" \
-++train_conf.wandb_project="cantonese-funasr" \
+++train_conf.wandb_project="cantonese_asr" \
+++train_conf.wandb_team="ming030890" \
 ++train_conf.wandb_exp_name="funasr-cantonese-$(date +%Y%m%d_%H%M%S)" \
 ++output_dir="${output_dir}" &> ${log_file}
