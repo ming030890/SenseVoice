@@ -42,17 +42,7 @@ DISTRIBUTED_ARGS="
 echo $DISTRIBUTED_ARGS
 
 # funasr trainer path
-if [ -f `dirname $(which funasr)`/train_ds.py ]; then
-    train_tool=`dirname $(which funasr)`/train_ds.py
-elif [ -f `dirname $(which funasr)`/../lib/python*/site-packages/funasr/bin/train_ds.py ]; then
-    train_tool=`dirname $(which funasr)`/../lib/python*/site-packages/funasr/bin/train_ds.py
-else
-    echo "Error: train_ds.py not found in funasr bin directory."
-    exit 1
-fi
-ABSOLUTE_PATH=$(cd $(dirname $train_tool); pwd)
-train_tool=${ABSOLUTE_PATH}/train_ds.py
-echo "Using funasr trainer: ${train_tool}"
+train_tool=/notebooks/FunASR/funasr/bin/train_ds.py
 
 torchrun $DISTRIBUTED_ARGS \
 ${train_tool} \
@@ -66,7 +56,7 @@ ${train_tool} \
 ++dataset_conf.sort_size=1024 \
 ++dataset_conf.batch_type="token" \
 ++dataset_conf.num_workers=4 \
-++train_conf.max_epoch=50 \
+++train_conf.max_epoch=1 \
 ++train_conf.log_interval=1 \
 ++train_conf.resume=true \
 ++train_conf.validate_interval=2000 \
@@ -76,4 +66,8 @@ ${train_tool} \
 ++train_conf.use_deepspeed=false \
 ++train_conf.deepspeed_config=${deepspeed_config} \
 ++optim_conf.lr=0.0002 \
+++train_conf.use_wandb=true \
+++train_conf.wandb_token="43f0a93861dc8dd416f7cb552b7982be18ab569a" \
+++train_conf.wandb_project="cantonese-funasr" \
+++train_conf.wandb_exp_name="funasr-cantonese-$(date +%Y%m%d_%H%M%S)" \
 ++output_dir="${output_dir}" &> ${log_file}
