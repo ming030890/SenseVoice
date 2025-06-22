@@ -4,8 +4,7 @@
 workspace=`pwd`
 
 # which gpu to train or finetune
-export CUDA_VISIBLE_DEVICES="0,1"
-gpu_num=$(echo $CUDA_VISIBLE_DEVICES | awk -F "," '{print NF}')
+gpu_num=$(nvidia-smi --list-gpus | wc -l)
 
 # model_name from model_hub, or model_dir in local path
 
@@ -20,8 +19,8 @@ model_name_or_model_dir="iic/SenseVoiceSmall"
 
 
 # data dir, which contains: train.json, val.json
-train_data=${workspace}/data/train_example.jsonl
-val_data=${workspace}/data/val_example.jsonl
+train_data=${workspace}/cantonese/train.jsonl
+val_data=${workspace}/cantonese/dev.jsonl
 
 # exp output dir
 output_dir="./outputs"
