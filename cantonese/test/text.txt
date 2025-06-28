@@ -2,7 +2,7 @@ common_voice_yue_31688971 乜鬼嘢記憶力？
 common_voice_yue_31690752 你以為我真係咁膚淺咩？
 common_voice_yue_31278106 嗰個係因為我哋呢邊有規範嘅，請你理解下
 common_voice_yue_41143619 一睇就知香港嚟
-common_voice_yue_32410767 而家還數嘅話會唔會提升信用?
+common_voice_yue_32410767 而家還數嘅話會唔會提升信用 ?
 common_voice_yue_33096102 兩個都係噉樣
 common_voice_yue_39936075 你妒忌呀？
 common_voice_yue_31392540 同父母住喺一個房間
@@ -19,7 +19,7 @@ common_voice_yue_37584542 仲有冇房？
 common_voice_yue_40015573 佢而家過得好辛苦
 common_voice_yue_35297035 你肯唔肯畀全期租？
 common_voice_yue_32977806 嚡，冇電腦
-common_voice_yue_31697251 尤其係?嘢食嘅聲
+common_voice_yue_31697251 尤其係 ? 嘢食嘅聲
 common_voice_yue_33036568 你有用電腦咩？
 common_voice_yue_31936243 梳化瞓得多會腰酸背痛㗎
 common_voice_yue_32106473 所以睇唔起你
@@ -159,14 +159,14 @@ common_voice_yue_40687040 好仔唔當差，當差正仆街
 common_voice_yue_40841810 幾好，留喺室內安全地方
 common_voice_yue_40841813 平時出圖唔係女就係貓或者打機截圖，字都唔多隻
 common_voice_yue_32672599 自從佢哋搞咗實名制之後
-common_voice_yue_32672601 牛丸湯麵兩個 外賣 唔該
+common_voice_yue_32672601 牛丸湯麵兩個  外賣  唔該
 common_voice_yue_32672602 擺明就係發咗達，有錢身痕
 common_voice_yue_41016755 想嗌蘿蔔牛腩飯，阿姐話冇蘿蔔
 common_voice_yue_41016758 西貢到底應該分入九龍定新界，好似唔同組織個分法都唔同
 common_voice_yue_41016759 仲要啲處所開返晒，個個出嚟返工返學飲飲食食先龜速上返一萬單一日
 common_voice_yue_38744308 因為跟呢群關係唔大
 common_voice_yue_38744309 下載到嘅係無內容嘅壓縮文檔
-common_voice_yue_38744312 老屋飛來啲外來雁 雞同鴨講眼碌碌
+common_voice_yue_38744312 老屋飛來啲外來雁  雞同鴨講眼碌碌
 common_voice_yue_33017046 所以啲消息唔流通，往往就係呢啲人
 common_voice_yue_33017047 不過我查過
 common_voice_yue_33017049 個老師畀你讀你都可以讀
@@ -189,7 +189,7 @@ common_voice_yue_40719502 你係咪睇咗啲咩痰上頸啊
 common_voice_yue_40719504 打仔還打仔
 common_voice_yue_40719506 佢係噉要我梳開啲陰露條眉出嚟
 common_voice_yue_32294446 又係喎，原來一年得一次生日
-common_voice_yue_32294447 嗰啲成日唱衰新會嘅人 更加凸顯咗嗰種小江門本地主義嘅暴發戶心態
+common_voice_yue_32294447 嗰啲成日唱衰新會嘅人  更加凸顯咗嗰種小江門本地主義嘅暴發戶心態
 common_voice_yue_32294448 最緊要觀眾睇得開心
 common_voice_yue_31979299 你唔係夜晚先開工個咩
 common_voice_yue_31979301 就任得你哋囉
@@ -309,7 +309,7 @@ common_voice_yue_31250622 乜嘢時候發佈呢
 common_voice_yue_31250623 應該係干涉
 common_voice_yue_31250626 結咩婚吖，有用咩？
 common_voice_yue_32256201 粵文維基百科嘅最多編緝嘅地區居然係大陸
-common_voice_yue_32256202 陳夢吉嫌自己個名嘅桔字太細 改自己個名做陳夢柑 點知搞出個大頭佛
+common_voice_yue_32256202 陳夢吉嫌自己個名嘅桔字太細  改自己個名做陳夢柑  點知搞出個大頭佛
 common_voice_yue_32256203 我以為啱嗰句係你講嘅
 common_voice_yue_32268377 唔係好明中間層次指乜，反正睇國際音標啦
 common_voice_yue_32268378 妳記得嘅嗰啲就寫出來
@@ -390,7 +390,7 @@ common_voice_yue_32272712 噉我仲差個未下載
 common_voice_yue_32272713 呢單新聞有咗幾日喇
 common_voice_yue_32249851 我仲指出美帝陰謀畀佢哋
 common_voice_yue_32249852 依家流行魚湯撈飯咩
-common_voice_yue_32249853 又飲酒又食海鮮 因住痛風呀
+common_voice_yue_32249853 又飲酒又食海鮮  因住痛風呀
 common_voice_yue_32249854 想創你個心
 common_voice_yue_39850473 我揈手嘅習慣係要掂啲嘢食落啲汁度
 common_voice_yue_39850474 噉先係㗎，似返你啊
@@ -442,7 +442,7 @@ common_voice_yue_32977411 為乜嘢公共場合就一定要講北方話呢？
 common_voice_yue_32987248 唔係，佢哋有測試之類嘅需求
 common_voice_yue_32987249 好大機會，第啲人聽唔明
 common_voice_yue_32987250 股東開董事會，冇請你做核算
-common_voice_yue_32987252 莫非就係我哋平時講嘅膝頭哥個哥嘅正字?
+common_voice_yue_32987252 莫非就係我哋平時講嘅膝頭哥個哥嘅正字 ?
 common_voice_yue_40838575 仲要集集都有啲阿婆答錯隔離
 common_voice_yue_40838577 係咪可以即時踢你走？
 common_voice_yue_40838579 今朝早餐食咗蛋沙律飛碟同飲咗杯檸檬薏米水
@@ -464,7 +464,7 @@ common_voice_yue_31196173 就得一個？
 common_voice_yue_31196174 條路又係遍地黃金
 common_voice_yue_31196176 正義可以停，恥笑絕對唔可以停
 common_voice_yue_32259574 真係同可改造嘅人講先得囉
-common_voice_yue_32259575 問你又話問佢 問佢又話問你
+common_voice_yue_32259575 問你又話問佢  問佢又話問你
 common_voice_yue_32259577 係韮菜，遲早都會畀人割嘅！
 common_voice_yue_32259578 啱嘞啱嘞，得未呀？
 common_voice_yue_41064229 我發覺一講呢啲毒嘢你就猛上水
@@ -489,7 +489,7 @@ common_voice_yue_40641344 你諗得太多，摸自己耳仔有咩特別
 common_voice_yue_40641345 趙薇趙王蛇？
 common_voice_yue_32302956 我開咗電腦喇
 common_voice_yue_32302957 我唔清楚
-common_voice_yue_32302958 我同我前任仲快呀 見面第一日就錫嘴 第二日就同床共枕
+common_voice_yue_32302958 我同我前任仲快呀  見面第一日就錫嘴  第二日就同床共枕
 common_voice_yue_32302959 我㓤親自己隻腳，然後塊面撞到枱邊
 common_voice_yue_35271606 似講緊我多啲，我話。多過似佢
 common_voice_yue_35271607 佢哋最叻咪就係去㗇人傷害人，得個殼咋！
@@ -522,7 +522,7 @@ common_voice_yue_32654775 陣間出街個陣再打畀你
 common_voice_yue_32654777 唔係淨係得菜，有唔同餸㗎
 common_voice_yue_32654778 下次要嚴格審核入群者
 common_voice_yue_32654779 特登用同音錯字
-common_voice_yue_32255448 有啲人隨住社會嘅開放 出嚟背住自己老婆搞搞震嘅
+common_voice_yue_32255448 有啲人隨住社會嘅開放  出嚟背住自己老婆搞搞震嘅
 common_voice_yue_32255449 仲有早茶歎
 common_voice_yue_32255451 呢個係一個普通打工仔嘅話
 common_voice_yue_32255452 有女喺度都冇人傾偈
@@ -537,7 +537,7 @@ common_voice_yue_37047163 下次有機會先啦
 common_voice_yue_31696952 唔係，唔好會錯意
 common_voice_yue_31697052 梗係上啦！邊個想係噉落落落？
 common_voice_yue_31697054 唔好再木口木面啦
-common_voice_yue_31697056 或者其他我傷心嘅經歷，就係為咗?你
+common_voice_yue_31697056 或者其他我傷心嘅經歷，就係為咗 ? 你
 common_voice_yue_31787210 好似佢起咗幅牆我冇辦法穿過
 common_voice_yue_31787212 嗰四粒圓圈嘅掣應該代替咗波棍嘅功能
 common_voice_yue_31787214 不如噉，我哋專注學業
@@ -729,7 +729,7 @@ common_voice_yue_37047560 自動變成咗系統推薦皮膚，點算？
 common_voice_yue_37047561 可惜聽聞佢已經放棄咗更新
 common_voice_yue_37047562 啱晒！多啲人熱鬧啲嘛
 common_voice_yue_37047564 用咗一個星期
-common_voice_yue_31732310 你啲屎好?臭
+common_voice_yue_31732310 你啲屎好 ? 臭
 common_voice_yue_31732312 嗰請問價錢方面係點樣呢？
 common_voice_yue_31732313 我都話唔好嚼住囉
 common_voice_yue_31732314 算啦，嘥心機
@@ -751,7 +751,7 @@ common_voice_yue_31196987 我講嘅規範同你講嘅規範一樣吖
 common_voice_yue_31196991 有一大堆唔知頭唔知路嘅人跟風
 common_voice_yue_32200876 有新項目？侵埋我吖
 common_voice_yue_32200877 彭志銘，呢排睇過幾條片有佢出現
-common_voice_yue_32200878 我覺得中國咁樣清零法 遲早病毒未死啲市民先死
+common_voice_yue_32200878 我覺得中國咁樣清零法  遲早病毒未死啲市民先死
 common_voice_yue_32201295 你知唔知咩係泰國長笛？
 common_voice_yue_32201297 對鞋都幾乸型
 common_voice_yue_32201300 你咁勞氣係解決唔到你冇水嘅問題㗎
@@ -930,7 +930,7 @@ common_voice_yue_40665575 裏面係有我㗎
 common_voice_yue_32545935 道歉都要燥底，連對唔住都唔講
 common_voice_yue_32545936 開啟畫中畫切換後台會有跌幀
 common_voice_yue_32545937 係唔係都已經約定俗成，用一些更容易睇得明嘅字
-common_voice_yue_32545938 識穿真相好低 B
+common_voice_yue_32545938 識穿真相好低  B
 common_voice_yue_31666769 間屋要保持乾淨
 common_voice_yue_31666770 但你記住，永遠都要絕對嚴謹
 common_voice_yue_31666771 喺現實中聽到
@@ -1048,7 +1048,7 @@ common_voice_yue_31234299 反正我講落雨就會落雨
 common_voice_yue_31234300 冇得見人就話人死
 common_voice_yue_32261442 問題比較多，因為唔清楚做事流程
 common_voice_yue_32261443 你話你想建網站？建咩網站？
-common_voice_yue_32261444 種種跡象顯示 佢經已辭咗份工冇開工好耐喇
+common_voice_yue_32261444 種種跡象顯示  佢經已辭咗份工冇開工好耐喇
 common_voice_yue_32261445 得閒分析下
 common_voice_yue_32261446 佢哋都唔睬人嘅，咁冷漠
 common_voice_yue_32263144 自己用，冇放落上面
@@ -1067,7 +1067,7 @@ common_voice_yue_40838781 覺得冇嘢係關我事
 common_voice_yue_40838783 要係噉測試佢對幾隻粗口字駁埋一齊連續用嘅語感，佢全部話唔合語法
 common_voice_yue_32269528 噉就等下先
 common_voice_yue_32269529 香港仲有好多世界各地唔同國籍嘅人
-common_voice_yue_32269530 你哋中心小學啲老師聽日唔好教書 全部出街跟我捉魚
+common_voice_yue_32269530 你哋中心小學啲老師聽日唔好教書  全部出街跟我捉魚
 common_voice_yue_32269531 切肉唔離皮，講得物理好難唔講數學
 common_voice_yue_32269532 所以咪出問題囉
 common_voice_yue_31378806 唔知係邊條友話我知話冇喇添
@@ -1083,9 +1083,9 @@ common_voice_yue_32075950 曾經好渺小嘅世界變得更廣闊
 common_voice_yue_31204641 並冇任何爭論嘅意思
 common_voice_yue_31204642 幾時嘅事啊？
 common_voice_yue_31204643 又係資金問題
-common_voice_yue_31204644 搞咗一輪，好掹?
+common_voice_yue_31204644 搞咗一輪，好掹 ?
 common_voice_yue_32268486 估細玩一排就冇癮
-common_voice_yue_32268487 我大佬搞咁耐 你係未唔閪畀面呀
+common_voice_yue_32268487 我大佬搞咁耐  你係未唔閪畀面呀
 common_voice_yue_32268488 我急屎要去屙屎
 common_voice_yue_32268489 去澳洲好定係去美國好啊
 common_voice_yue_32268490 但啲人都知鏡頭面前做唔到啲咩過分嘅嘢
@@ -1144,7 +1144,7 @@ common_voice_yue_31721200 你塊面搞咩啊？
 common_voice_yue_31721213 而且通常我都唔發覺我隻手喺度喐，已經變咗習慣
 common_voice_yue_31721217 一啲啲紅酒，不過已經揮發晒嘞
 common_voice_yue_31721219 我知我同佢同名
-common_voice_yue_31721221 佢乜?嘢事啊？
+common_voice_yue_31721221 佢乜 ? 嘢事啊？
 common_voice_yue_31666129 你都玩大咗
 common_voice_yue_31666134 有幾多個零？一百萬？
 common_voice_yue_31666137 係咪要講真相
@@ -1163,8 +1163,8 @@ common_voice_yue_31267762 你咪慢慢同佢哋討論囉
 common_voice_yue_31267764 唔知，我入群都冇同佢講過嘢
 common_voice_yue_31267765 等大家討論呢個問題
 common_voice_yue_31267766 例如乜嘢比乜嘢
-common_voice_yue_31267767 我身邊有好多朋友都冇裝呢款 app
-common_voice_yue_31192420 趙麗穎講出身眼濕濕：父祖輩皆農民，冇乜可回避!
+common_voice_yue_31267767 我身邊有好多朋友都冇裝呢款  app
+common_voice_yue_31192420 趙麗穎講出身眼濕濕：父祖輩皆農民，冇乜可回避 !
 common_voice_yue_31192421 最近要返工，得閒嗰陣再寫低先
 common_voice_yue_31192422 噉我可以同佢講下
 common_voice_yue_31192423 係蘋果應用，但唔係原生
@@ -1190,7 +1190,7 @@ common_voice_yue_38060716 我哋唔夠專業，還得麻煩閣下多多指導
 common_voice_yue_32269223 可以係一種派畀用戶嘅定心丸
 common_voice_yue_32269224 但係要點搞？係咪要先逳個設置
 common_voice_yue_32269225 有個特點就係佢真係好有魅力
-common_voice_yue_32269226 如果你係新會人但自稱係江門人 你會俾人笑係屎忽鬼
+common_voice_yue_32269226 如果你係新會人但自稱係江門人  你會俾人笑係屎忽鬼
 common_voice_yue_32269227 呢本書網上只有全兩冊嘅版本賣
 common_voice_yue_32359091 發夢啦你
 common_voice_yue_32359092 我都唔知
@@ -1334,13 +1334,13 @@ common_voice_yue_35270717 打字唔使連網
 common_voice_yue_35270718 等重新上架再安裝？
 common_voice_yue_35270719 唔緊要，我既然應承過會教學嘅，就會繼續留意
 common_voice_yue_35270721 任何人，無論你尋日幾風光，今日都可能身敗名裂
-common_voice_yue_35270722 買貴車先會變成奇?怪
+common_voice_yue_35270722 買貴車先會變成奇 ? 怪
 common_voice_yue_32410940 有一啲啲辛辣味
 common_voice_yue_32410941 如果唔係，啲人會問
 common_voice_yue_32410942 我哋都想儘量完善
 common_voice_yue_32410943 根本唔夠佢保住間屋
 common_voice_yue_32410944 好喇，各人自己諗，講完
-common_voice_yue_32299942 我咪去你嗰度囉 我點撚知你去邊度啫？
+common_voice_yue_32299942 我咪去你嗰度囉  我點撚知你去邊度啫？
 common_voice_yue_32299943 你係壯族人？
 common_voice_yue_32299944 而家可以喇
 common_voice_yue_32299945 我啲粵拼都唔係父母教嘅
@@ -1359,7 +1359,7 @@ common_voice_yue_40669606 覺得調查完全唔夠
 common_voice_yue_40669607 食咗月餅未
 common_voice_yue_40669608 我就好憎着裙嘅，飄下飄下好冇安全感
 common_voice_yue_40669610 邊個叫我
-common_voice_yue_31200655 邊有咁高人工 都係靠加班
+common_voice_yue_31200655 邊有咁高人工  都係靠加班
 common_voice_yue_31200656 呢樣嘢係學習工具，點都會掌握嘅
 common_voice_yue_31200658 如果唔係，可能少咗啲野
 common_voice_yue_31200659 不過又唔係公文
@@ -1438,7 +1438,7 @@ common_voice_yue_32986415 送福利啦！
 common_voice_yue_31634921 幾時嘅事？
 common_voice_yue_31634922 你唔知同樣嘅說話傷害過幾多人
 common_voice_yue_31634923 但有一個條件
-common_voice_yue_31634924 邊個阻我自由，我就幫邊個收?佢皮，就咁簡單
+common_voice_yue_31634924 邊個阻我自由，我就幫邊個收 ? 佢皮，就咁簡單
 common_voice_yue_31634925 你真係可以噉樣面對驚嘅嘢？
 common_voice_yue_31205746 我係噉樣學公式嘅
 common_voice_yue_31205747 好慘，啲設置都冇晒
@@ -1459,7 +1459,7 @@ common_voice_yue_31711723 個名型到跌渣
 common_voice_yue_31711725 之後我就覺得佢個人好有愛心
 common_voice_yue_31711727 我鍾意打機，但係我更加鍾意瞓覺，所以我唔會捱夜打機
 common_voice_yue_31711728 今年嘅生日，噉樣就夠，我已經好滿足
-common_voice_yue_32302812 我覺得新會同江門係一家人 衰嘅係呢個政府 冇咩必要爭咩高低長短
+common_voice_yue_32302812 我覺得新會同江門係一家人  衰嘅係呢個政府  冇咩必要爭咩高低長短
 common_voice_yue_32302813 幾分幾秒？
 common_voice_yue_32302815 畀個名詞我
 common_voice_yue_32302816 我哋我哋而家要求上傳清晰原圖
@@ -1569,7 +1569,7 @@ common_voice_yue_33021505 建議用付費嘅
 common_voice_yue_33021506 都係我唔識嘅
 common_voice_yue_36906177 雷公，卽係住雷州啦
 common_voice_yue_36906178 恥笑都好講究嘅
-common_voice_yue_36906179 今日嘅五邑地區包括新會 台山 開平 恩平同鶴山
+common_voice_yue_36906179 今日嘅五邑地區包括新會  台山  開平  恩平同鶴山
 common_voice_yue_36906180 唔知係乜回事呢
 common_voice_yue_36906181 做隻貓做隻狗
 common_voice_yue_40671453 即係話由而家起
@@ -1680,11 +1680,11 @@ common_voice_yue_32256443 人類嘅認知十分有限
 common_voice_yue_32256444 唔差，亦都有改進空間
 common_voice_yue_32256445 噉你啲字到時候係大衆用嘅
 common_voice_yue_32256446 將成績好嘅學生編成一班
-common_voice_yue_32256447 我曾經俾傑夫殺手 微笑狗呢啲恐怖圖片嚇到瀨屎
+common_voice_yue_32256447 我曾經俾傑夫殺手  微笑狗呢啲恐怖圖片嚇到瀨屎
 common_voice_yue_31658844 佢係代表和平嘅天使
 common_voice_yue_31658846 係咪好怪呢？好消息會令人唔開心
 common_voice_yue_31658847 但呢因為佢哋已經一齊住咗好耐
-common_voice_yue_31658849 你以為我講?咩呀？
+common_voice_yue_31658849 你以為我講 ? 咩呀？
 common_voice_yue_31658851 仲有我哋嘅原聲帶
 common_voice_yue_31938786 你又唔同佢哋講，我只係唔忍心見你咁辛苦宣傳啫
 common_voice_yue_31938788 喺網站上可以做呢啲教程
@@ -1824,7 +1824,7 @@ common_voice_yue_31360372 冇帶歧視啊
 common_voice_yue_32269732 下一位
 common_voice_yue_32269733 我冇計數機基本做唔到啲乜
 common_voice_yue_32269734 去唔去得到都成問題
-common_voice_yue_32269767 我做人有個宗旨 唔係睇做唔做到 而係睇啱唔啱
+common_voice_yue_32269767 我做人有個宗旨  唔係睇做唔做到  而係睇啱唔啱
 common_voice_yue_40654200 噉你有咩例子
 common_voice_yue_40654201 大陸就係噉，通過公權力強制大家幫啲趙老爺掠水
 common_voice_yue_40654202 但係完全體驗唔到啲吸力同快感
@@ -1862,7 +1862,7 @@ common_voice_yue_31932406 老一輩好信阿爺嘅
 common_voice_yue_37526950 要我參加嘅話，我就會同佢嗌交
 common_voice_yue_37526951 死八婆全家被人輪
 common_voice_yue_37526952 有個車手病咗，我咪頂佢更囉
-common_voice_yue_37526953 吹啲打跌利是 嘥氣
+common_voice_yue_37526953 吹啲打跌利是  嘥氣
 common_voice_yue_32647862 乜嘢時候先得啊
 common_voice_yue_32647937 佢到底去咗邊？
 common_voice_yue_32647940 你先係老司機
@@ -1930,7 +1930,7 @@ common_voice_yue_40672048 你哋一直都知㗎？
 common_voice_yue_32263536 仲做好多黑市交易
 common_voice_yue_32263539 各個方言各有特點
 common_voice_yue_32263540 我陣間去洗手
-common_voice_yue_32263576 我問佢願唔願意同我含 佢話唔制 覺得咁好污糟
+common_voice_yue_32263576 我問佢願唔願意同我含  佢話唔制  覺得咁好污糟
 common_voice_yue_32263578 如果聽日再同我瞓，我再繼續畀佢聽
 common_voice_yue_32263579 將問題前後過程錄落嚟
 common_voice_yue_32270841 我唔中意自拍或者類似嘅嘢
@@ -1945,7 +1945,7 @@ common_voice_yue_31697256 喺邊度啊？喺呢間屋
 common_voice_yue_31697323 除咗屋主，我都係
 common_voice_yue_31697332 如果我真係咁好，佢就唔會同我分手之後就同你一齊啦
 common_voice_yue_32808017 好喇，靜一靜
-common_voice_yue_32808018 你估我好似你哋啲咩領導主管咁 日日坐辦公室嘆冷氣呀？
+common_voice_yue_32808018 你估我好似你哋啲咩領導主管咁  日日坐辦公室嘆冷氣呀？
 common_voice_yue_32808021 知道，我仲喺度睇緊書，有唔明嘅話會問大家嘅，唔該晒
 common_voice_yue_32808057 可能我唔係好識表達，唔好介意
 common_voice_yue_32808060 日嫩模飆紅，眾網友冒煙
@@ -2095,7 +2095,7 @@ common_voice_yue_38333641 要去開電腦
 common_voice_yue_38333642 而家我哋係男女朋友喇
 common_voice_yue_31205566 都可以噉樣打
 common_voice_yue_31205567 或者你同呢兩位高手拜師囉
-common_voice_yue_31205568 睇B站冇彈幕唔係好慣
+common_voice_yue_31205568 睇 B 站冇彈幕唔係好慣
 common_voice_yue_31205569 有乜可能啊？係乜嘢短訊嚟㗎
 common_voice_yue_31205573 除此仲有冇其它意見
 common_voice_yue_31205574 揾個時間寫反饋
@@ -2134,7 +2134,7 @@ common_voice_yue_36946908 原來有得揀文字大細嘎
 common_voice_yue_36946909 秦漢唐宋等帝國
 common_voice_yue_36946910 我都係噉話，麵條好似北方話
 common_voice_yue_36946912 香港人冇廣州人劇烈
-common_voice_yue_32265458 然後佢哋都唔阻止對方去欺凌人， 呢件事本身就錯
+common_voice_yue_32265458 然後佢哋都唔阻止對方去欺凌人，  呢件事本身就錯
 common_voice_yue_32265459 你話乜嘢揾唔到？
 common_voice_yue_32265460 阿媽一直都知你喺新學校好唔自在
 common_voice_yue_32265463 聽朝搵過個新人
@@ -2170,7 +2170,7 @@ common_voice_yue_38895661 我唔介意啲人睇到我好傻仔噉
 common_voice_yue_38895819 小學字表咁犀利
 common_voice_yue_38895822 各有各靚，各有各醜
 common_voice_yue_31723110 好似我哋咁細嘅家庭
-common_voice_yue_31723111 只要係有過去，出位少少嘅，都會畀人?住晒
+common_voice_yue_31723111 只要係有過去，出位少少嘅，都會畀人 ? 住晒
 common_voice_yue_31723112 我有我嘅辦法
 common_voice_yue_31723113 阿女唔使擔心錢銀嘅嘢
 common_voice_yue_31723114 喂喂喂，返嚟先
@@ -2420,7 +2420,7 @@ common_voice_yue_32302892 針對細佬哥
 common_voice_yue_32302893 關注仁義市場實際啲
 common_voice_yue_32302894 入面都冇嘢，淨係得衫，同埋佢阿媽張相
 common_voice_yue_32302895 改個名玩下啫
-common_voice_yue_32270400 ?人一巴掌
+common_voice_yue_32270400 ? 人一巴掌
 common_voice_yue_32270401 仲係兒童啓蒙教材
 common_voice_yue_32270423 正月十五係咩節日？
 common_voice_yue_32270424 但係我冇乜相關嘅人提供資料畀我
@@ -2505,7 +2505,7 @@ common_voice_yue_32333231 打唔出隻字，冇辦法
 common_voice_yue_32333232 行動證明一切
 common_voice_yue_32352298 呢度都冇病人，得個口臭嘅衰人喺度
 common_voice_yue_32352301 唔該你
-common_voice_yue_37228347 你哋五山係我哋啱啱調收返嚟 但冇理由冇水個喎
+common_voice_yue_37228347 你哋五山係我哋啱啱調收返嚟  但冇理由冇水個喎
 common_voice_yue_37228348 係吖，諗住安裝試試
 common_voice_yue_37228350 我唔用雲存儲
 common_voice_yue_37228380 淨係可以夠喺屋企冇人喺度嘅時候做自己想做嘅事
@@ -2574,7 +2574,7 @@ common_voice_yue_32269009 第二步之後就卡住咗
 common_voice_yue_32269036 我哋平日真係冇你咁得閑
 common_voice_yue_32269037 我到時會寫一份操作方法，教參與者點樣參與貢獻
 common_voice_yue_32269038 如果有呢種情況出現咪算囉
-common_voice_yue_32269040 瑋琪平時好姣 成日專登露底畀啲男嘅睇
+common_voice_yue_32269040 瑋琪平時好姣  成日專登露底畀啲男嘅睇
 common_voice_yue_32996546 我明白你嘅意思，但係始終唔夠深入，有時會用返啲北方話嘅思維
 common_voice_yue_32996547 反正揾咗個更差嘅返嚟
 common_voice_yue_32996548 社區，就好似一個教堂
@@ -2637,7 +2637,7 @@ common_voice_yue_31266339 總結下聽日要補充嘅說明同要改善嘅地方
 common_voice_yue_31266340 我哋完全係對等嘅
 common_voice_yue_37608753 佢係湖南人？
 common_voice_yue_37608754 係，直頭唔見你
-common_voice_yue_37608755 抬棺材甩褲 醜死鬼
+common_voice_yue_37608755 抬棺材甩褲  醜死鬼
 common_voice_yue_37608756 噉我冇你符
 common_voice_yue_37608757 請你嘗試朗讀一段維基百科嘅條目
 common_voice_yue_37608759 求其整個諧音當潮流
@@ -2729,7 +2729,7 @@ common_voice_yue_32308418 呢個咁乾淨，唔夠專業
 common_voice_yue_32308419 我頭先先發現原來有人留咗言畀我
 common_voice_yue_32308420 唔好怪我長氣
 common_voice_yue_32308421 北方話係一種用來同各民族地區溝通嘅工具
-common_voice_yue_32308422 我希望架?唔會喺我閂咗道門之後，就上咗去
+common_voice_yue_32308422 我希望架 ? 唔會喺我閂咗道門之後，就上咗去
 common_voice_yue_40668113 佢覺得人哋應該叫佢姨姨
 common_voice_yue_40668114 全場靜晒
 common_voice_yue_40668115 唔係真嗰隻啊
@@ -2777,7 +2777,7 @@ common_voice_yue_32270486 今日趕唔到送糧
 common_voice_yue_32270487 個個都選擇沉默
 common_voice_yue_32270488 有維護日期
 common_voice_yue_32270489 外文堂要讀到英文幾先上得？
-common_voice_yue_32270490 成個村都冇水 係因為水改改管冇水定咩事冇水
+common_voice_yue_32270490 成個村都冇水  係因為水改改管冇水定咩事冇水
 common_voice_yue_32270521 好嘅，就噉啦，請多多指教
 common_voice_yue_32270522 好嘅，你安裝佢試試
 common_voice_yue_32270523 我唔想佢哋識等我返嚟，所以我寧願養隻唔認得主人嘅寵物
@@ -2821,7 +2821,7 @@ common_voice_yue_32991194 就算粵語冇文字支撐，都係語言
 common_voice_yue_32545820 秋水共長天一色
 common_voice_yue_32545821 呢個亦都係可以轉換嘅
 common_voice_yue_32545825 我會想像海底有怪獸公司
-common_voice_yue_32545827 瀏覽器識阻止廣告?嘛
+common_voice_yue_32545827 瀏覽器識阻止廣告 ? 嘛
 common_voice_yue_32545836 你唔覺得有啲殘忍咩？
 common_voice_yue_32545837 阿祁先生，麻煩檢查下我嘅作業
 common_voice_yue_32545838 佢會嘅，噉你哋自由傾，我閃先
@@ -2943,11 +2943,11 @@ common_voice_yue_31198241 你講邊度嘅客家話？
 common_voice_yue_31198242 本地道路嘅漢文譯名十分貼合中文發音
 common_voice_yue_31198243 點解會有香港嘅？
 common_voice_yue_31198244 而家仲要睇法院點樣判斷呢次選舉
-common_voice_yue_32268090 唔好睇咁多av呀 好多係作大㗎咋
+common_voice_yue_32268090 唔好睇咁多 av 呀  好多係作大㗎咋
 common_voice_yue_32268092 有太陽照住我係咪都會醒
 common_voice_yue_32268093 請問安卓嘅數字一鍵點自訂啊？
 common_voice_yue_32268094 一般都係手機店搞掂㗎
-common_voice_yue_32268112 家下啲後生零舍擒青 識咗人哋唔夠一個禮拜就同人上床
+common_voice_yue_32268112 家下啲後生零舍擒青  識咗人哋唔夠一個禮拜就同人上床
 common_voice_yue_32268113 呢啲單字都係按照之前你提供嘅幾個網站查㗎
 common_voice_yue_32268115 我覺得你係日本人，係唔係呢？
 common_voice_yue_32268140 森林學三年級學生
@@ -3150,7 +3150,7 @@ common_voice_yue_33005557 已經重新部署
 common_voice_yue_33005558 口語化歌詞都有自己獨特嘅味道
 common_voice_yue_33005559 訊飛著重手機版
 common_voice_yue_33005560 機器啊？三百多
-common_voice_yue_33005615 聊天窗口打唔打得開同文鍵盤?
+common_voice_yue_33005615 聊天窗口打唔打得開同文鍵盤 ?
 common_voice_yue_33005616 呢句就中肯好多
 common_voice_yue_33218612 過年換紅底
 common_voice_yue_33218613 呢三個係最活躍嘅
@@ -3234,7 +3234,7 @@ common_voice_yue_32269812 唔辛苦邊有錢
 common_voice_yue_32269813 但現實唔係噉
 common_voice_yue_32269840 邊有咁得意
 common_voice_yue_32269841 呢到底係乜嘢毛病？
-common_voice_yue_32269842 曾經嘅江門係新會嘅一個鎮 今日竟然反客為主管返新會
+common_voice_yue_32269842 曾經嘅江門係新會嘅一個鎮  今日竟然反客為主管返新會
 common_voice_yue_32269843 第日你就知
 common_voice_yue_32269844 日日都同自己講，要靜靜哋捱到畢業
 common_voice_yue_32269911 咦，可以啊
@@ -3260,7 +3260,7 @@ common_voice_yue_32330200 話時話，你知唔知入面邊啲係我嘅相？
 common_voice_yue_32330201 你要面對你嘅恐懼，逐啲逐啲慢慢嚟
 common_voice_yue_32330202 請問先生識唔識拼音？
 common_voice_yue_32330210 或者收銀乜嘢嘅都可以諗下
-common_voice_yue_32330211 你手指插咁入 係未想破我處啫
+common_voice_yue_32330211 你手指插咁入  係未想破我處啫
 common_voice_yue_32330212 嘩！真係好多謝你咁有誠意覆我
 common_voice_yue_32330213 仲比較精簡，唔會太噚氣
 common_voice_yue_32330214 噉，你想表達乜嘢
@@ -3313,7 +3313,7 @@ common_voice_yue_32267920 我改成噉就係為咗提供更好嘅介面
 common_voice_yue_32267926 佢係大佬吖嘛
 common_voice_yue_32267927 我想借佢一條片嚟測試，唔知道佢肯唔肯，我測試完就畀返佢
 common_voice_yue_32267929 因為當時啱啱接觸，學晒老師嘅發音
-common_voice_yue_32267930 阿峰份人平時雖然講嘢鹹濕 但佢唔會衰到去偷拍人哋裙底
+common_voice_yue_32267930 阿峰份人平時雖然講嘢鹹濕  但佢唔會衰到去偷拍人哋裙底
 common_voice_yue_32267937 我覺得自己太唔正常喇
 common_voice_yue_32267938 喺邊度、用邊張卡買好？
 common_voice_yue_32267939 香港語言學學會粵語拼音方案
@@ -3351,7 +3351,7 @@ common_voice_yue_32333998 第二個就冇人對過
 common_voice_yue_32333999 如有必要，再加一啲佐料
 common_voice_yue_32334007 佢唔踢曼聯嗰陣我喊咗幾個鐘
 common_voice_yue_32334009 我學唔識嘅仲有我個仔
-common_voice_yue_32334010 呢隻好?垃圾
+common_voice_yue_32334010 呢隻好 ? 垃圾
 common_voice_yue_32334013 解釋喺對話入面用到嘅詞彙
 common_voice_yue_37156718 都係讀返健康啦
 common_voice_yue_37156720 佢都經歷緊好多嘢
@@ -3369,7 +3369,7 @@ common_voice_yue_32307250 如果有人討論一啲深度話題，我都可以跟
 common_voice_yue_32307256 唔係，我係獨仔
 common_voice_yue_32307257 無論點，我都係想同你做朋友多啲
 common_voice_yue_32307260 護照都無法辦理
-common_voice_yue_32307281 咩制度優勢呀 慳啲喇 搞到民不聊生仲優勢
+common_voice_yue_32307281 咩制度優勢呀  慳啲喇  搞到民不聊生仲優勢
 common_voice_yue_32307282 喂！畀返我吖
 common_voice_yue_32307283 你寫緊乜呀？
 common_voice_yue_32307284 唔係話你哋咧
@@ -3386,10 +3386,10 @@ common_voice_yue_32997946 唔知點解成日聽到有聲
 common_voice_yue_32997948 麻煩再試多次啦
 common_voice_yue_32261552 有乜嘢揀呀
 common_voice_yue_32261553 我想做電影粵文字幕啊
-common_voice_yue_32261554 生係新會人 死係屎忽鬼
+common_voice_yue_32261554 生係新會人  死係屎忽鬼
 common_voice_yue_32261555 無論歌定係服裝都係噉樣
 common_voice_yue_32261576 所以先至傷心
-common_voice_yue_32261578 呢啲人根本唔會諗到 新會人乃至四邑人對自己本地文化嘅認同 係足以對抗一切行政命令
+common_voice_yue_32261578 呢啲人根本唔會諗到  新會人乃至四邑人對自己本地文化嘅認同  係足以對抗一切行政命令
 common_voice_yue_32261596 冇樓，啲女點會跟你？
 common_voice_yue_32261597 畢竟用戶有使用慣性，推出先嘅一般可以爭取到多啲用戶
 common_voice_yue_32261598 有啲行動係同緊成個政權作對
@@ -3398,7 +3398,7 @@ common_voice_yue_32270955 嘩，份表你整嘎？
 common_voice_yue_32270957 唔好拮我就得
 common_voice_yue_32270958 係咪之前就已經知道有呢樣嘢，但係未學識？
 common_voice_yue_32270959 成王敗寇
-common_voice_yue_32270960 兩公婆行埋冇夠兩分鐘搞掂單嘢嘅 你同我加啲陽起石落去
+common_voice_yue_32270960 兩公婆行埋冇夠兩分鐘搞掂單嘢嘅  你同我加啲陽起石落去
 common_voice_yue_32270961 呢部日漫，我啱先睇嘅
 common_voice_yue_32270964 我問過你，以前我哋有冇見過
 common_voice_yue_32271152 直接向工作組提意見啦
@@ -3406,7 +3406,7 @@ common_voice_yue_32271153 手機嘅銷售數據我都唔係咁相信
 common_voice_yue_32271154 第一日就已經冇去喇
 common_voice_yue_32271155 廣東話就嚟俾班口音警察搞撚死
 common_voice_yue_32271156 然而仲係冇動靜
-common_voice_yue_31421647 唔怪得啲微信公衆號噉?赤
+common_voice_yue_31421647 唔怪得啲微信公衆號噉 ? 赤
 common_voice_yue_31421648 睇你想自己加水定佢幫你加埋
 common_voice_yue_31436103 一年補十萬
 common_voice_yue_31436106 你哋嗰邊啲人真係奇怪
@@ -3450,7 +3450,7 @@ common_voice_yue_31219568 呢族人真係咩野生動物都吃
 common_voice_yue_31219570 噉就唔係呢個問題嘞，係你用得唔啱
 common_voice_yue_31219571 不過我係噉讀嘅
 common_voice_yue_31219572 你今日先用過
-common_voice_yue_31219574 你買呢副耳機嘅時候係幾錢啊?
+common_voice_yue_31219574 你買呢副耳機嘅時候係幾錢啊 ?
 common_voice_yue_31219576 生完之後住喺浙江
 common_voice_yue_31219577 你唔好講出去，因為呢個係公司嘅秘密
 common_voice_yue_31219578 而且又唔可以連打
@@ -3653,7 +3653,7 @@ common_voice_yue_40421771 你哋有啲可能未聽過
 common_voice_yue_40421773 我都知道自己比你所講嘅更有價值
 common_voice_yue_40421774 幫我準備間房同啲衫啊
 common_voice_yue_40421775 我哋去玩下？
-common_voice_yue_32270003 好多人覺得新會人唔認江門 係沈醉過往輝煌 不思進取
+common_voice_yue_32270003 好多人覺得新會人唔認江門  係沈醉過往輝煌  不思進取
 common_voice_yue_32270005 借個叉電嚟先啦
 common_voice_yue_32270006 如果你想，我就幫你噉做再上傳
 common_voice_yue_32270008 大家都好瘦
@@ -3661,7 +3661,7 @@ common_voice_yue_32270009 下次請你飲呢支
 common_voice_yue_32270010 講緊邊位師兄？
 common_voice_yue_32270018 我根本都唔預今日會聽到呢首歌
 common_voice_yue_32270019 之後大家都着重教學方面就好嘞
-common_voice_yue_32270021 雖然梁啟超同我一樣都係新會人 但係我唔認同佢嘅中華民族論
+common_voice_yue_32270021 雖然梁啟超同我一樣都係新會人  但係我唔認同佢嘅中華民族論
 common_voice_yue_32303120 部車未出隧道
 common_voice_yue_32303121 天氣凍，我身體啲外露嘅皮膚早已收皮
 common_voice_yue_32303123 再加啲黑白
@@ -3753,7 +3753,7 @@ common_voice_yue_40797884 核數師喺我隔離好勤力做緊嘢
 common_voice_yue_40797885 因乜事要插唔識嘅人咁多刀
 common_voice_yue_40797886 利申唔熟電腦嘢
 common_voice_yue_40797887 一直拖點知一直都嫁唔出？
-common_voice_yue_31220382 睇嚟呢個係佢嘅第 n 個號
+common_voice_yue_31220382 睇嚟呢個係佢嘅第  n 個號
 common_voice_yue_31220383 直接無視佢啦
 common_voice_yue_31220384 今晚再考慮玩唔玩越南救伯仔
 common_voice_yue_31220386 不過我睇呢張幾清晰嘅噃
@@ -3814,7 +3814,7 @@ common_voice_yue_32278390 只租畀叫呢個名嘅人
 common_voice_yue_32278394 你頭先嗰啲
 common_voice_yue_32278395 我哋去緊醫院，有啲文件要簽，佢要插喉呀
 common_voice_yue_32278396 如果互相影響係平等嘅，就冇問題
-common_voice_yue_32278397 雖然外來媳婦本地郎係好經典 但家下套劇越做越垃圾
+common_voice_yue_32278397 雖然外來媳婦本地郎係好經典  但家下套劇越做越垃圾
 common_voice_yue_32278402 就係細路仔嚟
 common_voice_yue_32278404 我就要睇下究竟有幾多花臣可以搞
 common_voice_yue_32278407 仲要註冊帳號添
@@ -3861,7 +3861,7 @@ common_voice_yue_39652829 係時侯跳下森巴！我準備好喇！
 common_voice_yue_39652830 唔好搞我啲薯片
 common_voice_yue_39652835 而你係唯一一個阻止我嘅人
 common_voice_yue_39652838 啦啦隊第一日練習啊
-common_voice_yue_39652839 有啲男嘅勁過隆 搞咗成個鐘都未出嘢 插到條女就嚟死咁滯
+common_voice_yue_39652839 有啲男嘅勁過隆  搞咗成個鐘都未出嘢  插到條女就嚟死咁滯
 common_voice_yue_39652840 睇咗新聞未？
 common_voice_yue_39652842 同埋希望我嘅建議可以幫大家搵到真愛
 common_voice_yue_39652846 我有時好唔細心
@@ -4007,12 +4007,12 @@ common_voice_yue_32328961 我哋聽完知道咗就算
 common_voice_yue_32328962 我去飲盃茶，同佢哋吟詩作對
 common_voice_yue_32328963 邀我入你個直播
 common_voice_yue_32328965 我連續打咗畀你三日喇，你係咪嬲咗我呀？
-common_voice_yue_32301555 粵語閒閒哋都有幾十種口音 憑咩係得香港口音可以代表到粵語呀
+common_voice_yue_32301555 粵語閒閒哋都有幾十種口音  憑咩係得香港口音可以代表到粵語呀
 common_voice_yue_32301557 其實老一代廣州人咩口音都有
 common_voice_yue_32301558 五山沙龍呀
 common_voice_yue_32301570 我哋覺得不知幾威水呀
 common_voice_yue_32301572 本來就唔係黃秋生嘅歌
-common_voice_yue_32301573 台山赤溪變咗做客家人嘅地方 係清政府調停土客衝突嘅結果
+common_voice_yue_32301573 台山赤溪變咗做客家人嘅地方  係清政府調停土客衝突嘅結果
 common_voice_yue_32301574 如不便於所定時間參與會議，請喺組內提出
 common_voice_yue_32301661 都話叫你揀話題
 common_voice_yue_32301662 唔好同啲胡人一般見識
@@ -4039,7 +4039,7 @@ common_voice_yue_38286986 冇晒聲嘅？
 common_voice_yue_38286987 撳耐啲睇下
 common_voice_yue_38287004 我都揾唔到啊
 common_voice_yue_38287007 喺其它群見到呢樣嘢
-common_voice_yue_38287018 使唔使咁?多規矩？
+common_voice_yue_38287018 使唔使咁 ? 多規矩？
 common_voice_yue_38287020 大陸想做低台灣係幾咁容易
 common_voice_yue_38287022 係一種象徵嚟
 common_voice_yue_38287043 睇下而家個世界，壓抑到死
@@ -4066,7 +4066,7 @@ common_voice_yue_40768933 係咪咩詛咒嚟
 common_voice_yue_40768934 大佬係咪嫌我哋啲語料唔夠好
 common_voice_yue_40768935 冇手得把嘴。
 common_voice_yue_32269701 全國人大委員長
-common_voice_yue_32269702 上世紀三十年代新會縣府遷返會城 從此新會對江門失去咗控制
+common_voice_yue_32269702 上世紀三十年代新會縣府遷返會城  從此新會對江門失去咗控制
 common_voice_yue_32269703 過幾年會轉好
 common_voice_yue_32269704 大公司一般入唔到
 common_voice_yue_32269705 不如雙管齊下
@@ -4103,7 +4103,7 @@ common_voice_yue_36546142 兩星期前
 common_voice_yue_36546143 有時走唔甩雞嘅
 common_voice_yue_36546144 好感動，有第三代倉頡
 common_voice_yue_36546152 要等佢人工批
-common_voice_yue_36546153 你有冇聽過一句說話 叫做 人以群分 物以類聚
+common_voice_yue_36546153 你有冇聽過一句說話  叫做  人以群分  物以類聚
 common_voice_yue_36546154 不如自己諗辦法
 common_voice_yue_36546155 大家都要幫手，得我一個力量唔夠
 common_voice_yue_32986223 係呀，好早之前就有
@@ -4172,7 +4172,7 @@ common_voice_yue_32407873 我淨係想玩下
 common_voice_yue_32407874 不如大家出街做返自己
 common_voice_yue_32407876 你都係想要個有錢女咋嘛，吓？
 common_voice_yue_32407891 安卓都係睇唔到
-common_voice_yue_32407892 食咗我陳醫生呢啲藥 我要你生一胎得一胎 生兩胎得兩胎
+common_voice_yue_32407892 食咗我陳醫生呢啲藥  我要你生一胎得一胎  生兩胎得兩胎
 common_voice_yue_32407898 係咁上下到
 common_voice_yue_32407899 佢公司啲人
 common_voice_yue_32407900 後尾聽咗你嘅勸説，就冇再衝動用事嘞
@@ -4287,13 +4287,13 @@ common_voice_yue_32079404 唔同版本嘅功能唔同？
 common_voice_yue_37666097 話說國泰哩程今個月尾貶值
 common_voice_yue_37666098 唔好太介意呢方面嘅嘢
 common_voice_yue_37666100 麪包喺邊度？！
-common_voice_yue_37666183 噉我建議刪咗尋日個 唔好保留
+common_voice_yue_37666183 噉我建議刪咗尋日個  唔好保留
 common_voice_yue_37666185 輸入法嘅好多功能，都來自於大家嘅回饋呢
 common_voice_yue_37666186 搞乜啊？做乜忽然收聲？
 common_voice_yue_37666187 仲話自己係第一粵語頻道
 common_voice_yue_37666202 反正你嘅行文唔敢恭維，都係改返佢好啲
 common_voice_yue_37666204 可能會慢啲
-common_voice_yue_37666205 開弓冇回頭箭、n要佔用好多資源
+common_voice_yue_37666205 開弓冇回頭箭、 n 要佔用好多資源
 common_voice_yue_37666206 我送你出去吖
 common_voice_yue_37666208 傻仔快啲講啦，乜條件
 common_voice_yue_37666210 暫時未有喺防火牆地區可以使用嘅短網址
@@ -4703,7 +4703,7 @@ common_voice_yue_32977836 謝手謝腳，形容做嘢冇氣冇力，唔出力
 common_voice_yue_32977837 讀得一般般
 common_voice_yue_31938639 唔係，我只係唔安心自己一個瞓
 common_voice_yue_31938641 反正又唔好用
-common_voice_yue_31938642 但間屋唔係我嘅,我租㗎咋
+common_voice_yue_31938642 但間屋唔係我嘅 , 我租㗎咋
 common_voice_yue_31938678 原來仲有一個
 common_voice_yue_31938680 噉就有請閣下嚟為我哋做示範
 common_voice_yue_31938681 我要食嘢嘛，我好肚餓！
@@ -4753,7 +4753,7 @@ common_voice_yue_32503909 係因為你著緊對舊鞋
 common_voice_yue_32503910 雖然唔算多，但都開始有人對抗我哋
 common_voice_yue_32503911 呢壇嘢係前奏，呢個我記得
 common_voice_yue_32503935 夠嘞，唔好喐
-common_voice_yue_32503937 我提議江門應該改名做蓬城 或者叫返做新會
+common_voice_yue_32503937 我提議江門應該改名做蓬城  或者叫返做新會
 common_voice_yue_32503949 阿爸你傻咗啊？邊度變隻烤鴨出嚟啊？
 common_voice_yue_32503951 望落好似魚露，你聞下
 common_voice_yue_32503952 你有冇設計過個髮型？
@@ -4939,7 +4939,7 @@ common_voice_yue_32548366 我哋呢度有好多個
 common_voice_yue_32548369 冇嘢喇，有嘢請教之嘛，問咗第個喇，打攪晒
 common_voice_yue_32548374 呢間屋係咪好靚呢？
 common_voice_yue_32548375 各大娛樂場所同活動場地嘅最大擁有者
-common_voice_yue_32548376 我諗呢個應該同 T 鍵盤概念相近
+common_voice_yue_32548376 我諗呢個應該同  T 鍵盤概念相近
 common_voice_yue_32548381 你嗰邊上網慢啫
 common_voice_yue_32548382 過冬候鳥都畀佢哋食清光
 common_voice_yue_32548384 我每日都會寫啲好短嘅內容
@@ -5052,7 +5052,7 @@ common_voice_yue_32371327 我屋企有七個兄弟姐妹
 common_voice_yue_32371328 你唔夠愛我
 common_voice_yue_32371335 梗係粵拼啦
 common_voice_yue_32371337 老豆係背稱
-common_voice_yue_32371338 新會市俾江門吞併咗 降格變成新會區
+common_voice_yue_32371338 新會市俾江門吞併咗  降格變成新會區
 common_voice_yue_32371339 我都未宣傳，近排未得閒
 common_voice_yue_32992227 難道係我國獨用嘅符號
 common_voice_yue_32997624 返返屋企？
