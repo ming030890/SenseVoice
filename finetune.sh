@@ -22,6 +22,11 @@ model_name_or_model_dir="iic/SenseVoiceSmall"
 train_data=${workspace}/cantonese/train.jsonl
 val_data=${workspace}/cantonese/dev.jsonl
 
+echo "Checking training data file:"
+wc -l ${train_data}
+head ${train_data}
+
+
 # exp output dir
 output_dir="./outputs"
 log_file="${output_dir}/log.txt"
@@ -56,7 +61,7 @@ ${train_tool} \
 ++dataset_conf.sort_size=1024 \
 ++dataset_conf.batch_type="token" \
 ++dataset_conf.num_workers=4 \
-++train_conf.max_epoch=2 \
+++train_conf.max_epoch=3 \
 ++train_conf.log_interval=1 \
 ++train_conf.resume=true \
 ++train_conf.validate_interval=1000 \
@@ -69,7 +74,7 @@ ${train_tool} \
 ++train_conf.grad_clip=1.0 \
 ++optim=adamw \
 ++optim_conf.lr=3e-5 \
-++optim_conf.weight_decay=0.01
+++optim_conf.weight_decay=0.01 \
 ++train_conf.use_wandb=true \
 ++train_conf.wandb_project="cantonese_asr" \
 ++train_conf.wandb_team="ming030890" \
