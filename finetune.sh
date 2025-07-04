@@ -75,7 +75,7 @@ ${train_tool} \
 ++train_conf.use_bf16=true \
 ++train_conf.grad_clip=5.0 \
 ++optim=adamw \
-++optim_conf.lr=2e-5 \
+++optim_conf.lr=3e-5 \
 ++scheduler_conf.warmup_steps=2000 \
 ++train_conf.use_wandb=true \
 ++train.conf.early_stopping_patience=3 \
